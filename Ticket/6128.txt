@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 6128
+ Passenger Name : Md Ether 
+ Phone Number    : 01789653425
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Gendaria railway station
+  Train                     : Parabat Express
+  N. of Passenger : 2 person 
+Total distance :		35.76 km
+
+ ===================================
+  Amount :		143.04 Tk
+ ===================================
+
+ *******************************************************

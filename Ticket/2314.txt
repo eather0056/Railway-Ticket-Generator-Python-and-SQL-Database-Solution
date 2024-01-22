@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 2314
+ Passenger Name : dasdcasd
+ Phone Number    : 213123
+ Date                    : 7/24/22
+ *******************************************************
+
+  From                 : Airport railway station
+  To                     : Kamalapur railway station
+  N. of Passenger : 4 person 
+Total distance :		4.57 km
+
+ ===================================
+  Amount :		36.56 Tk
+ ===================================
+
+ *******************************************************

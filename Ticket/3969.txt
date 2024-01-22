@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 3969
+ Passenger Name : dfsdf
+ Phone Number    : 4545
+ Date                    : 8/10/22
+ *******************************************************
+
+  From                 : Banani railway station
+  To                     : Shyampur Baraitala railway station
+  N. of Passenger : 5 person 
+Total distance :		48.83 km
+
+ ===================================
+  Amount :		488.29999999999995 Tk
+ ===================================
+
+ *******************************************************

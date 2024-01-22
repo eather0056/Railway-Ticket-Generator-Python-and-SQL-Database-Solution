@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 2851
+ Passenger Name : fdwadf
+ Phone Number    : 65767
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Kamalapur railway station
+  Train                     : Parabat Express
+  N. of Passenger : 1 person 
+Total distance :		22.95 km
+
+ ===================================
+  Amount :		45.9 Tk
+ ===================================
+
+ *******************************************************

@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 4185
+ Passenger Name : wasdfas
+ Phone Number    : 64564
+ Date                    : 8/10/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Kamalapur railway station
+  N. of Passenger : 4 person 
+Total distance :		22.95 km
+
+ ===================================
+  Amount :		183.6 Tk
+ ===================================
+
+ *******************************************************

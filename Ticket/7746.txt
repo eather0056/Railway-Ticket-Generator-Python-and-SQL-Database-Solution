@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 7746
+ Passenger Name : 45t4fg
+ Phone Number    : 5454
+ Date                    : 8/10/22
+ *******************************************************
+
+  From                 : Airport railway station
+  To                     : Cantonment railway station
+  N. of Passenger : 6 person 
+Total distance :		54.55 km
+
+ ===================================
+  Amount :		654.5999999999999 Tk
+ ===================================
+
+ *******************************************************

@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 6888
+ Passenger Name : sgesfv
+ Phone Number    : 342432434
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Shyampur Baraitala railway station
+  Train                     : Parabat Express
+  N. of Passenger : 4 person 
+Total distance :		29.31 km
+
+ ===================================
+  Amount :		234.48 Tk
+ ===================================
+
+ *******************************************************

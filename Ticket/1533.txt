@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 1533
+ Passenger Name : Md. Ether Deowan
+ Phone Number    : 01789653425
+ Date                    : 7/24/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Gendaria railway station
+  N. of Passenger : 4 person 
+Total distance :		35.76 km
+
+ ===================================
+  Amount :		286.08 Tk
+ ===================================
+
+ *******************************************************

@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 3693
+ Passenger Name : asawsd
+ Phone Number    : 454453
+ Date                    : 8/10/22
+ *******************************************************
+
+  From                 : Kamalapur railway station
+  To                     : Shyampur Baraitala railway station
+  N. of Passenger : 4 person 
+Total distance :		72.35 km
+
+ ===================================
+  Amount :		578.8 Tk
+ ===================================
+
+ *******************************************************

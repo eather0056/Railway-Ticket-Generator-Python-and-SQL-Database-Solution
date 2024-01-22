@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 5802
+ Passenger Name : Md Ether
+ Phone Number    : 01786485733
+ Date                    : 7/30/22
+ *******************************************************
+
+  From                 : Airport railway station
+  To                     : Kamalapur railway station
+  N. of Passenger : 5 person 
+Total distance :		4.57 km
+
+ ===================================
+  Amount :		45.7 Tk
+ ===================================
+
+ *******************************************************

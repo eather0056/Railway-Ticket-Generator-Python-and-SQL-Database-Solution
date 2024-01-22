@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 8664
+ Passenger Name : dfgfg
+ Phone Number    : 564656
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Airport railway station
+  To                     : Kamalapur railway station
+  Train                     : Parabat Express
+  N. of Passenger : 6 person 
+Total distance :		4.57 km
+
+ ===================================
+  Amount :		54.84 Tk
+ ===================================
+
+ *******************************************************

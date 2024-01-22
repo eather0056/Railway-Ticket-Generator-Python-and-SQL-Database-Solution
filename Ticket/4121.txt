@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 4121
+ Passenger Name : asfasd
+ Phone Number    : 346356
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Kamalapur railway station
+  Train                     : Parabat Express
+  N. of Passenger : 1 person 
+Total distance :		22.95 km
+
+ ===================================
+  Amount :		45.9 Tk
+ ===================================
+
+ *******************************************************

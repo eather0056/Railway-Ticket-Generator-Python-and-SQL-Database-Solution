@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 2116
+ Passenger Name : faewer
+ Phone Number    : 34324
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Gendaria railway station
+  To                     : Kamalapur railway station
+  Train                     : Ekota Express
+  N. of Passenger : 3 person 
+Total distance :		55.9 km
+
+ ===================================
+  Amount :		335.4 Tk
+ ===================================
+
+ *******************************************************

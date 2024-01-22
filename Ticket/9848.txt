@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 9848
+ Passenger Name : dghgf
+ Phone Number    : 43563456
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Airport railway station
+  To                     : Gendaria railway station
+  Train                     : Parabat Express
+  N. of Passenger : 2 person 
+Total distance :		54.55 km
+
+ ===================================
+  Amount :		218.2 Tk
+ ===================================
+
+ *******************************************************

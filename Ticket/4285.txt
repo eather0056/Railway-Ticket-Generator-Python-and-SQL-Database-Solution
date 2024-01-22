@@ -1,0 +1,18 @@
+		 Have Safe Journey
+
+ Ticket Number     : 4285
+ Passenger Name : Md Rizvee
+ Phone Number    : 01776000463
+ Date                    : 7/30/22
+ *******************************************************
+
+  From                 : Cantonment railway station
+  To                     : Kamalapur railway station
+  N. of Passenger : 5 person 
+Total distance :		22.95 km
+
+ ===================================
+  Amount :		229.5 Tk
+ ===================================
+
+ *******************************************************

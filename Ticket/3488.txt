@@ -1,0 +1,19 @@
+		 Have Safe Journey
+
+ Ticket Number     : 3488
+ Passenger Name : dgsffsdf
+ Phone Number    : 456456
+ Date                    : 8/20/22
+ *******************************************************
+
+  From                 : Airport railway station
+  To                     : Kamalapur railway station
+  Train                     : Parabat Express
+  N. of Passenger : 4 person 
+Total distance :		4.57 km
+
+ ===================================
+  Amount :		36.56 Tk
+ ===================================
+
+ *******************************************************
